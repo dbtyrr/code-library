@@ -1,1 +1,0 @@
-# Test document to be deleted - testing Git functionality post OS update.
